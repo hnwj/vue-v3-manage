@@ -10,7 +10,7 @@ const test = async () => {
   console.log(res)
 }
 onMounted(() => {
-  test()
+
 })
 </script>
 <style lang="less">
